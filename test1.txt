@@ -1,1 +1,1 @@
-to jest jakiś przykładowy plik
+To jest edytowany plik.
